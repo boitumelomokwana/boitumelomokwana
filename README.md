@@ -8,10 +8,10 @@ Computer Systems Engineering Graduate | Software Developer | South Africa ðŸ‡¿ðŸ
   <a href="mailto:Boitumelomokwana06@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/boitumelo-mokwana">
+  <a href="https//:linkedin.com/in/boitumelo-mokwana">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https//:my-portfolio-mld60vz6w-boitumelo.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
