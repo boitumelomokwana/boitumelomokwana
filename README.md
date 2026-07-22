@@ -127,11 +127,11 @@ Designed and programmed an automated recycling conveyor system using PLC technol
 
 # 🤝 Let's Connect
 
-📧 **Boitumelomokwana06@gmail.com**
+📧 **Boitumelomokwana11@gmail.com**
 
 💼 LinkedIn: **www.linkedin.com/in/boitumelo-mokwana**
 
-🌐 Portfolio: **Coming Soon**
+🌐 Portfolio: **my-portfolio-mld60vz6w-boitumelo.vercel.app**
 
 ---
 
